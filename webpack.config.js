@@ -10,7 +10,7 @@ module.exports = {
     library: ['toio', 'scanner'],
     libraryTarget: 'umd',
     path: __dirname,
-    filename: 'toio-browser-1.0.0.js'
+    filename: 'toio-browser-1.1.1.js'
   },
   resolve: {
     alias: {
